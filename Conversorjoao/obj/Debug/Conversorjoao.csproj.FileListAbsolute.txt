@@ -1,0 +1,7 @@
+C:\Users\attilio.cneto\source\repos\Conversorjoao\obj\Debug\Conversorjoao.csproj.AssemblyReference.cache
+C:\Users\attilio.cneto\source\repos\Conversorjoao\obj\Debug\Conversorjoao.csproj.CoreCompileInputs.cache
+C:\Users\attilio.cneto\source\repos\Conversorjoao\bin\Debug\Conversorjoao.exe.config
+C:\Users\attilio.cneto\source\repos\Conversorjoao\bin\Debug\Conversorjoao.exe
+C:\Users\attilio.cneto\source\repos\Conversorjoao\bin\Debug\Conversorjoao.pdb
+C:\Users\attilio.cneto\source\repos\Conversorjoao\obj\Debug\Conversorjoao.exe
+C:\Users\attilio.cneto\source\repos\Conversorjoao\obj\Debug\Conversorjoao.pdb
